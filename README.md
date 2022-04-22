@@ -120,4 +120,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: /AssesmentSD/Frontend/assets/logo/white.png
+[product-video]: /AssesmentKent/demovideo
