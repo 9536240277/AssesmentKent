@@ -80,7 +80,7 @@ We have two folders inside repository on backend and one frontend user need to r
 For connecting with the proper database and host user need to update the dbConnection.js file available in backend folder
 
 
-4. Enter your database details in dbConnection.js
+Enter your database details in dbConnection.js
    ```js
    host = 'ENTER YOUR hostname';
    user = 'ENTER YOUR username';
