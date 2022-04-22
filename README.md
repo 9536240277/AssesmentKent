@@ -13,7 +13,7 @@
   <h3 align="center">AssesmentSD</h3>
 
   <p align="center">
-    login registration system.
+    Login Registration appplication using React-Native.
     <br />
 
 
@@ -76,10 +76,10 @@ We hae two folders inside repository on backend and one frontend user need to ru
 
 ### Installation
 
-For connecting with the proper database and host user need to update the dbCOnnection.js file available in backend folder
+For connecting with the proper database and host user need to update the dbConnection.js file available in backend folder
 
 
-4. Enter your databse details in dbCOnnection.js
+4. Enter your database details in dbConnection.js
    ```js
    host = 'ENTER YOUR hostname';
    user = 'ENTER YOUR username';
@@ -94,7 +94,7 @@ For connecting with the proper database and host user need to update the dbCOnne
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For running backend firest user need to run the following command in backend folder:
+For running backend first user need to run the following command in backend folder:
 
 * nodemon
   ```sh
@@ -107,6 +107,8 @@ For running frontend user need to run the following command in frontend folder:
   expo start
   ```
 
+And it will start the expo server in the web. And from there you can select the option to run in android emulator which will open the emulator for running the android app. 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -114,7 +116,7 @@ For running frontend user need to run the following command in frontend folder:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Chhavi Vishnoi - vishnoichhavi@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
