@@ -118,7 +118,7 @@ And it will start the expo server in the web. And from there you can select the 
 
 Chhavi Vishnoi - vishnoichhavi@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/9536240277/AssesmentKent.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
