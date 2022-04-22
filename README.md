@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-You must have NodeJS and React-Native installed in your system. You can find the instructions to install both of them on thier official website. After that clone the repository using
+You must have NodeJS and React-Native installed in your system. You can find the instructions to install both of them on thier official website. And for backend you must have MySQL setup in your system. For testing API, I used postman and to check database data, I used Sql Workbench. You can install all of it using the instructions available on the official website. After that clone the repository using-
  ```sh
  git clone "https://github.com/9536240277/AssesmentKent.git"
  ```
