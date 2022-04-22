@@ -5,7 +5,7 @@ const port = 3306
 
 const db = mysql.createPool({
    connectionLimit: 100,
-   host: "127.0.0.1",       //This is your localhost IP
+   host: "127.0.0.1",      
    user: "root",         
    password: "password",  // password for the new user
    database: "kent",      // Database name
