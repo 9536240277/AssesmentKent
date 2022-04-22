@@ -85,13 +85,13 @@ Enter your database details in dbConnection.js
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For running backend first user need to run the following command in backend folder:
+For running backend first user need to run the following command in the backend folder:
 
 * nodemon
   ```sh
   nodemon dbConnection 
   ```
-For running frontend user need to run the following command in frontend folder:
+For running frontend user need to run the following command in the frontend folder:
 
 * expo
   ```sh
