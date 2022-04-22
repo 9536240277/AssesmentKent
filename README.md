@@ -68,7 +68,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-We hae two folders inside repository on backend and one frontend user need to run the below command in both for installation of the npm packages.
+You must have NodeJS and React-Native installed in your system. You can find the instructions to install both of them on thier official website. 
+We have two folders inside repository on backend and one frontend user need to run the below command in both for installation of the npm packages.
 * npm
   ```sh
   npm install 
